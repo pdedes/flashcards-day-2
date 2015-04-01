@@ -1,0 +1,23 @@
+body {
+  padding-top: 100px;
+}
+#statistics,
+#filters {
+  background: #eee;
+  color: #000;
+  position: fixed;
+  height: auto;
+  height: 100px;
+}
+#statistics {
+  width: 30%;
+  float: right;
+  top: 0;
+  right: 0;
+}
+#filters {
+  width: 70%;
+  float: left;
+  top: 0;
+  left: 0;
+}
